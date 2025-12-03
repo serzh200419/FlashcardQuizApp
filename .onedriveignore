@@ -1,0 +1,30 @@
+# Flutter build and cache folders - DO NOT SYNC
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Platform-specific
+ios/Pods/
+ios/.symlinks/
+android/.gradle/
+android/app/build/
+windows/flutter/ephemeral/
+macos/Flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
+
